@@ -2,7 +2,7 @@
 This repository contains a dataset of research journal "Sarcasm Detection Engine For Twiter Sentiment Analysis Using Textual And Emoji Feature".
 
 <b>unlabel-filtered-dataset.csv</b> <br/>
-This file contains raw datasets without any labels.
+This file contains raw dataset without any labels.
 
 <b>fully-labeled-dataset.csv</b> <br/>
 This file contains a dataset that has been given a sentiment label, emoji label and sarcasm label.
